@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ip": "^1.1.8",
+    "node-fetch": "^2.7.0"
+  }
+}
